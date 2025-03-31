@@ -3,8 +3,9 @@
 Assignment for Module 9 --- Version Control
 
 ## EUID
-am3287
+txb0002
 ## Favorite Professor
+<<<<<<< HEAD
 asdf
 ## EUID
 am3287
@@ -20,4 +21,10 @@ txb0002
 ## EUID
 txb0002
 ## Favorite Professor
+Jimmy
+=======
+Jimmy
+
+>>>>>>> 91930288c98d6578b6954fb05e4cab927677758a
+txb0002
 Jimmy
